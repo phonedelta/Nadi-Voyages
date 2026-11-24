@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*.local
+test-results/
+*.tsbuildinfo
+.data/
+public/api/data/
+.DS_Store
+docs/reference/
+docs/result/

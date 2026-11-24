@@ -1,0 +1,1591 @@
+{
+  "trips": [
+    {
+      "slug": "istanbul",
+      "img": "istanbul",
+      "gallery": [
+        "istanbul",
+        "istanbul2",
+        "market",
+        "food"
+      ],
+      "region": "moyen-orient",
+      "type": "culture",
+      "featured": true,
+      "dest": {
+        "fr": "Istanbul",
+        "en": "Istanbul",
+        "ar": "إسطنبول"
+      },
+      "country": {
+        "fr": "Turquie",
+        "en": "Turkey",
+        "ar": "تركيا"
+      },
+      "name": {
+        "fr": "Istanbul entre deux continents",
+        "en": "Istanbul between two continents",
+        "ar": "إسطنبول بين قارتين"
+      },
+      "duration": {
+        "fr": "5 jours",
+        "en": "5 days",
+        "ar": "٥ أيام"
+      },
+      "summary": {
+        "fr": "Bazars, coupoles et Bosphore : la ville qui relie l’Orient et l’Occident.",
+        "en": "Bazaars, domes and the Bosphorus: the city linking East and West.",
+        "ar": "أسواق عريقة وقباب مهيبة وجولة على البوسفور في مدينة تجمع الشرق والغرب."
+      },
+      "days": 5,
+      "nights": 4
+    },
+    {
+      "slug": "egypte",
+      "img": "egypt",
+      "gallery": [
+        "egypt",
+        "egypt2",
+        "desert",
+        "market"
+      ],
+      "region": "afrique",
+      "type": "culture",
+      "featured": true,
+      "dest": {
+        "fr": "Égypte",
+        "en": "Egypt",
+        "ar": "مصر"
+      },
+      "country": {
+        "fr": "Le Caire",
+        "en": "Cairo",
+        "ar": "القاهرة"
+      },
+      "name": {
+        "fr": "Égypte sur les traces des pharaons",
+        "en": "Egypt in the footsteps of the pharaohs",
+        "ar": "مصر على خطى الفراعنة"
+      },
+      "duration": {
+        "fr": "8 jours",
+        "en": "8 days",
+        "ar": "٨ أيام"
+      },
+      "summary": {
+        "fr": "Pyramides, temples et croisière sur le Nil, entre histoire et grands espaces.",
+        "en": "Pyramids, temples and a Nile cruise, between history and open horizons.",
+        "ar": "من الأهرامات والمعابد إلى رحلة هادئة على النيل، تجربة في قلب التاريخ."
+      },
+      "days": 8,
+      "nights": 7
+    },
+    {
+      "slug": "thailande",
+      "img": "thailand",
+      "gallery": [
+        "thailand",
+        "thailand2",
+        "food",
+        "mountain"
+      ],
+      "region": "asie",
+      "type": "aventure",
+      "featured": true,
+      "dest": {
+        "fr": "Thaïlande",
+        "en": "Thailand",
+        "ar": "تايلاند"
+      },
+      "country": {
+        "fr": "Bangkok & Phuket",
+        "en": "Bangkok & Phuket",
+        "ar": "بانكوك وبوكيت"
+      },
+      "name": {
+        "fr": "Thaïlande temples et lagons",
+        "en": "Thailand temples and lagoons",
+        "ar": "تايلاند بين المعابد والبحيرات الفيروزية"
+      },
+      "duration": {
+        "fr": "10 jours",
+        "en": "10 days",
+        "ar": "١٠ أيام"
+      },
+      "summary": {
+        "fr": "Des temples dorés de Bangkok aux plages du sud, un voyage de contrastes.",
+        "en": "From Bangkok’s golden temples to southern beaches, a journey of contrasts.",
+        "ar": "من معابد بانكوك الذهبية إلى شواطئ الجنوب، رحلة تجمع الثقافة والاسترخاء."
+      },
+      "days": 10,
+      "nights": 9
+    },
+    {
+      "slug": "dubai",
+      "img": "dubai",
+      "gallery": [
+        "dubai",
+        "dubai2",
+        "desert",
+        "resort"
+      ],
+      "region": "moyen-orient",
+      "type": "city-break",
+      "featured": true,
+      "dest": {
+        "fr": "Dubaï",
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      "country": {
+        "fr": "Émirats Arabes Unis",
+        "en": "United Arab Emirates",
+        "ar": "الإمارات"
+      },
+      "name": {
+        "fr": "Dubaï la ville qui touche le ciel",
+        "en": "Dubai the city that touches the sky",
+        "ar": "دبي المدينة التي تلامس السماء"
+      },
+      "duration": {
+        "fr": "4 jours",
+        "en": "4 days",
+        "ar": "٤ أيام"
+      },
+      "summary": {
+        "fr": "Gratte-ciel, désert doré et art de vivre : un city-break spectaculaire.",
+        "en": "Skyscrapers, golden desert and fine living: a spectacular city break.",
+        "ar": "ناطحات سحاب وصحراء ذهبية وتجارب استثنائية في عطلة قصيرة ومليئة بالحياة."
+      },
+      "days": 4,
+      "nights": 3
+    },
+    {
+      "slug": "bali",
+      "img": "bali",
+      "gallery": [
+        "bali",
+        "bali2",
+        "mountain",
+        "resort"
+      ],
+      "region": "asie",
+      "type": "detente",
+      "featured": true,
+      "dest": {
+        "fr": "Bali",
+        "en": "Bali",
+        "ar": "بالي"
+      },
+      "country": {
+        "fr": "Indonésie",
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      },
+      "name": {
+        "fr": "Bali l’île des dieux",
+        "en": "Bali island of the gods",
+        "ar": "بالي جزيرة الآلهة"
+      },
+      "duration": {
+        "fr": "9 jours",
+        "en": "9 days",
+        "ar": "٩ أيام"
+      },
+      "summary": {
+        "fr": "Rizières, temples et plages : une parenthèse entre nature et sérénité.",
+        "en": "Rice terraces, temples and beaches: a pause between nature and serenity.",
+        "ar": "مدرّجات الأرز والمعابد والشواطئ في تجربة تجمع الطبيعة والسكينة."
+      },
+      "days": 9,
+      "nights": 8
+    },
+    {
+      "slug": "maldives",
+      "img": "maldives",
+      "gallery": [
+        "maldives",
+        "maldives2",
+        "resort",
+        "mountain"
+      ],
+      "region": "asie",
+      "type": "detente",
+      "featured": true,
+      "dest": {
+        "fr": "Maldives",
+        "en": "Maldives",
+        "ar": "المالديف"
+      },
+      "country": {
+        "fr": "Maldives",
+        "en": "Maldives",
+        "ar": "المالديف"
+      },
+      "name": {
+        "fr": "Maldives le luxe du silence",
+        "en": "Maldives the luxury of silence",
+        "ar": "المالديف ترف الهدوء"
+      },
+      "duration": {
+        "fr": "6 jours",
+        "en": "6 days",
+        "ar": "٦ أيام"
+      },
+      "summary": {
+        "fr": "Villas sur pilotis, lagons turquoise et calme absolu au bord de l’océan.",
+        "en": "Overwater villas, turquoise lagoons and absolute calm by the ocean.",
+        "ar": "فيلات فوق الماء وبحيرات فيروزية وهدوء كامل على ضفاف المحيط."
+      },
+      "days": 6,
+      "nights": 5
+    },
+    {
+      "slug": "mecque",
+      "img": "home-hero",
+      "gallery": [
+        "home-hero",
+        "hotel",
+        "hotel2",
+        "plane"
+      ],
+      "region": "moyen-orient",
+      "type": "spirituel",
+      "featured": true,
+      "dest": {
+        "fr": "La Mecque",
+        "en": "Makkah",
+        "ar": "مكة المكرمة"
+      },
+      "country": {
+        "fr": "Arabie saoudite",
+        "en": "Saudi Arabia",
+        "ar": "السعودية"
+      },
+      "name": {
+        "fr": "Omra à La Mecque et Médine",
+        "en": "Umrah in Makkah and Madinah",
+        "ar": "عمرة إلى مكة المكرمة والمدينة المنورة"
+      },
+      "duration": {
+        "fr": "7 jours",
+        "en": "7 days",
+        "ar": "٧ أيام"
+      },
+      "summary": {
+        "fr": "Un voyage spirituel accompagné, de la Kaaba à la Mosquée du Prophète.",
+        "en": "A guided spiritual journey, from the Kaaba to the Prophet’s Mosque.",
+        "ar": "رحلة روحانية مرافقة من الكعبة المشرفة إلى المسجد النبوي الشريف."
+      },
+      "days": 7,
+      "nights": 6
+    }
+  ],
+  "details": {
+    "istanbul": {
+      "long": {
+        "fr": "Istanbul se vit autant qu’elle se visite. Entre le vacarme joyeux du Grand Bazar, le silence des grandes mosquées et la lumière dorée sur le Bosphore, chaque journée révèle une nouvelle facette de la ville. Ce voyage mêle sites incontournables et moments plus intimes, au rythme des ruelles et des rives.",
+        "en": "Istanbul is lived as much as it is visited. Between the joyful buzz of the Grand Bazaar, the silence of the great mosques and the golden light on the Bosphorus, each day reveals a new side of the city. This trip blends must-see sights with quieter moments, following the rhythm of its streets and shores.",
+        "ar": "إسطنبول تُعاش بقدر ما تُزار. بين ضجيج البازار الكبير المبهج وسكون المساجد العظيمة والضوء الذهبي على البوسفور، يكشف كل يوم وجهاً جديداً للمدينة. تمزج هذه الرحلة بين المعالم الأساسية ولحظات أكثر خصوصية على إيقاع الأزقة والضفاف."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée & Sultanahmet",
+            "en": "Arrival & Sultanahmet",
+            "ar": "الوصول والسلطان أحمد"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée & sultanahmet. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival & sultanahmet. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول والسلطان أحمد. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Trésors byzantins & ottomans",
+            "en": "Byzantine & Ottoman treasures",
+            "ar": "كنوز بيزنطية وعثمانية"
+          },
+          "d": {
+            "fr": "Idée pour la journée : trésors byzantins & ottomans. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: byzantine & ottoman treasures. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: كنوز بيزنطية وعثمانية. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Bazars & saveurs",
+            "en": "Bazaars & flavours",
+            "ar": "أسواق ونكهات"
+          },
+          "d": {
+            "fr": "Idée pour la journée : bazars & saveurs. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: bazaars & flavours. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: أسواق ونكهات. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Bosphore & rive asiatique",
+            "en": "Bosphorus & Asian shore",
+            "ar": "البوسفور والضفة الآسيوية"
+          },
+          "d": {
+            "fr": "Idée pour la journée : bosphore & rive asiatique. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: bosphorus & asian shore. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: البوسفور والضفة الآسيوية. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Dernière promenade & retour",
+            "en": "Final walk & departure",
+            "ar": "جولة أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "egypte": {
+      "long": {
+        "fr": "De la démesure des pyramides aux rives paisibles du Nil, l’Égypte déroule des millénaires d’histoire à ciel ouvert. Ce voyage associe les grands sites de la vallée des rois à la douceur d’une croisière, pour prendre le temps de comprendre une civilisation fascinante.",
+        "en": "From the grandeur of the pyramids to the peaceful banks of the Nile, Egypt unfolds millennia of open-air history. This trip pairs the great sites of the Valley of the Kings with the gentleness of a cruise, taking time to understand a fascinating civilisation.",
+        "ar": "من عظمة الأهرامات إلى ضفاف النيل الهادئة، تفتح مصر آلاف السنين من التاريخ في الهواء الطلق. تجمع هذه الرحلة بين مواقع وادي الملوك الكبرى ورقّة رحلة نيلية، لتأخذ وقتك في فهم حضارة ساحرة."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée au Caire",
+            "en": "Arrival in Cairo",
+            "ar": "الوصول إلى القاهرة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée au caire. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival in cairo. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول إلى القاهرة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Pyramides de Gizeh",
+            "en": "Giza pyramids",
+            "ar": "أهرامات الجيزة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : pyramides de gizeh. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: giza pyramids. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: أهرامات الجيزة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Saqqarah & Memphis",
+            "en": "Saqqara & Memphis",
+            "ar": "سقارة وممفيس"
+          },
+          "d": {
+            "fr": "Idée pour la journée : saqqarah & memphis. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: saqqara & memphis. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: سقارة وممفيس. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Musées & vieux Caire",
+            "en": "Museums & old Cairo",
+            "ar": "المتاحف والقاهرة القديمة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : musées & vieux caire. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: museums & old cairo. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: المتاحف والقاهرة القديمة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "En route pour Louxor",
+            "en": "Journey to Luxor",
+            "ar": "الانتقال إلى الأقصر"
+          },
+          "d": {
+            "fr": "Idée pour la journée : en route pour louxor. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: journey to luxor. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الانتقال إلى الأقصر. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Vallée des Rois",
+            "en": "Valley of the Kings",
+            "ar": "وادي الملوك"
+          },
+          "d": {
+            "fr": "Idée pour la journée : vallée des rois. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: valley of the kings. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: وادي الملوك. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Karnak & promenade sur le Nil",
+            "en": "Karnak & a walk along the Nile",
+            "ar": "الكرنك ونزهة على النيل"
+          },
+          "d": {
+            "fr": "Idée pour la journée : karnak & promenade sur le nil. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: karnak & a walk along the nile. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الكرنك ونزهة على النيل. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Dernières découvertes & retour",
+            "en": "Final discoveries & departure",
+            "ar": "اكتشافات أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "thailande": {
+      "long": {
+        "fr": "La Thaïlande offre deux voyages en un : l’effervescence dorée de Bangkok et la douceur des îles du Sud. Entre temples scintillants, marchés flottants et plages de sable blanc, ce circuit équilibre culture et détente, sans jamais se presser.",
+        "en": "Thailand offers two trips in one: the golden buzz of Bangkok and the gentleness of the southern islands. Between glittering temples, floating markets and white-sand beaches, this itinerary balances culture and relaxation, never in a hurry.",
+        "ar": "تقدّم تايلاند رحلتين في واحدة: صخب بانكوك الذهبي ورقّة جزر الجنوب. بين المعابد المتلألئة والأسواق العائمة وشواطئ الرمال البيضاء، يوازن هذا البرنامج بين الثقافة والاسترخاء دون عجلة."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée à Bangkok",
+            "en": "Arrival in Bangkok",
+            "ar": "الوصول إلى بانكوك"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée à bangkok. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival in bangkok. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول إلى بانكوك. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Grand Palais & temples",
+            "en": "Grand Palace & temples",
+            "ar": "القصر الكبير والمعابد"
+          },
+          "d": {
+            "fr": "Idée pour la journée : grand palais & temples. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: grand palace & temples. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: القصر الكبير والمعابد. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Marchés & cuisine thaïe",
+            "en": "Markets & Thai cuisine",
+            "ar": "الأسواق والمطبخ التايلاندي"
+          },
+          "d": {
+            "fr": "Idée pour la journée : marchés & cuisine thaïe. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: markets & thai cuisine. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الأسواق والمطبخ التايلاندي. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Escapade à Ayutthaya",
+            "en": "Ayutthaya day trip",
+            "ar": "رحلة إلى أيوتايا"
+          },
+          "d": {
+            "fr": "Idée pour la journée : escapade à ayutthaya. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: ayutthaya day trip. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: رحلة إلى أيوتايا. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "De Bangkok à Phuket",
+            "en": "From Bangkok to Phuket",
+            "ar": "من بانكوك إلى بوكيت"
+          },
+          "d": {
+            "fr": "Idée pour la journée : de bangkok à phuket. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: from bangkok to phuket. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: من بانكوك إلى بوكيت. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Plages de Phuket",
+            "en": "Phuket beaches",
+            "ar": "شواطئ بوكيت"
+          },
+          "d": {
+            "fr": "Idée pour la journée : plages de phuket. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: phuket beaches. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: شواطئ بوكيت. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Baie de Phang Nga",
+            "en": "Phang Nga bay",
+            "ar": "خليج فانغ نغا"
+          },
+          "d": {
+            "fr": "Idée pour la journée : baie de phang nga. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: phang nga bay. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: خليج فانغ نغا. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Découverte des îles",
+            "en": "Island discovery",
+            "ar": "اكتشاف الجزر"
+          },
+          "d": {
+            "fr": "Idée pour la journée : découverte des îles. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: island discovery. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: اكتشاف الجزر. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Journée à votre rythme",
+            "en": "A day at your own pace",
+            "ar": "يوم حسب رغبتكم"
+          },
+          "d": {
+            "fr": "Idée pour la journée : journée à votre rythme. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: a day at your own pace. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: يوم حسب رغبتكم. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Derniers instants & retour",
+            "en": "Final moments & departure",
+            "ar": "لحظات أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "dubai": {
+      "long": {
+        "fr": "Dubaï condense l’extraordinaire : une skyline futuriste, un désert millénaire et un art de recevoir sans équivalent. En quelques jours, ce city-break passe des sommets vertigineux aux dunes dorées, avec des adresses choisies pour leur atmosphère.",
+        "en": "Dubai concentrates the extraordinary: a futuristic skyline, an ancient desert and unmatched hospitality. In a few days, this city break moves from dizzying heights to golden dunes, with places chosen for their atmosphere.",
+        "ar": "تختصر دبي كل ما هو استثنائي: أفق مستقبلي وصحراء عريقة وكرم ضيافة لا يُضاهى. في أيام قليلة، تنتقل هذه العطلة المدينية من القمم الشاهقة إلى الكثبان الذهبية، بأماكن مختارة لأجوائها."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée & Dubai Marina",
+            "en": "Arrival & Dubai Marina",
+            "ar": "الوصول ومارينا دبي"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée & dubai marina. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival & dubai marina. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول ومارينا دبي. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Burj Khalifa & centre-ville",
+            "en": "Burj Khalifa & downtown",
+            "ar": "برج خليفة ووسط المدينة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : burj khalifa & centre-ville. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: burj khalifa & downtown. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: برج خليفة ووسط المدينة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Vieux Dubaï & désert",
+            "en": "Old Dubai & desert",
+            "ar": "دبي القديمة والصحراء"
+          },
+          "d": {
+            "fr": "Idée pour la journée : vieux dubaï & désert. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: old dubai & desert. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: دبي القديمة والصحراء. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Dernières découvertes & retour",
+            "en": "Final discoveries & departure",
+            "ar": "اكتشافات أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "bali": {
+      "long": {
+        "fr": "Bali séduit par sa nature généreuse et sa spiritualité tranquille. Rizières en terrasses, temples suspendus et plages ourlées de cocotiers composent un décor où il fait bon ralentir. Ce séjour alterne découvertes culturelles et vraies parenthèses de repos.",
+        "en": "Bali charms with its generous nature and quiet spirituality. Terraced rice fields, clifftop temples and coconut-lined beaches form a setting made for slowing down. This stay alternates cultural discoveries with genuine moments of rest.",
+        "ar": "تأسر بالي بطبيعتها السخية وروحانيتها الهادئة. مدرجات الأرز والمعابد المعلّقة والشواطئ المحفوفة بالنخيل تشكّل مشهداً يدعو للتمهّل. تتناوب هذه الإقامة بين الاكتشافات الثقافية ولحظات راحة حقيقية."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée & installation à Ubud",
+            "en": "Arrival & check-in in Ubud",
+            "ar": "الوصول والإقامة في أوبود"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée & installation à ubud. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival & check-in in ubud. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول والإقامة في أوبود. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Rizières & villages",
+            "en": "Rice fields & villages",
+            "ar": "حقول الأرز والقرى"
+          },
+          "d": {
+            "fr": "Idée pour la journée : rizières & villages. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: rice fields & villages. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: حقول الأرز والقرى. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Temples d’Ubud",
+            "en": "Ubud temples",
+            "ar": "معابد أوبود"
+          },
+          "d": {
+            "fr": "Idée pour la journée : temples d’ubud. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: ubud temples. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: معابد أوبود. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Nature autour de Kintamani",
+            "en": "Nature around Kintamani",
+            "ar": "الطبيعة حول كينتاماني"
+          },
+          "d": {
+            "fr": "Idée pour la journée : nature autour de kintamani. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: nature around kintamani. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الطبيعة حول كينتاماني. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Artisanat & cuisine balinaise",
+            "en": "Crafts & Balinese cuisine",
+            "ar": "الحرف والمطبخ الباليني"
+          },
+          "d": {
+            "fr": "Idée pour la journée : artisanat & cuisine balinaise. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: crafts & balinese cuisine. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الحرف والمطبخ الباليني. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Tanah Lot au coucher du soleil",
+            "en": "Tanah Lot at sunset",
+            "ar": "تاناه لوت عند الغروب"
+          },
+          "d": {
+            "fr": "Idée pour la journée : tanah lot au coucher du soleil. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: tanah lot at sunset. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: تاناه لوت عند الغروب. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Vers les plages du sud",
+            "en": "Towards the southern beaches",
+            "ar": "نحو شواطئ الجنوب"
+          },
+          "d": {
+            "fr": "Idée pour la journée : vers les plages du sud. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: towards the southern beaches. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: نحو شواطئ الجنوب. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Détente au bord de l’océan",
+            "en": "Relaxing by the ocean",
+            "ar": "الاسترخاء بجانب المحيط"
+          },
+          "d": {
+            "fr": "Idée pour la journée : détente au bord de l’océan. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: relaxing by the ocean. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الاسترخاء بجانب المحيط. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Dernières découvertes & retour",
+            "en": "Final discoveries & departure",
+            "ar": "اكتشافات أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "maldives": {
+      "long": {
+        "fr": "Aux Maldives, le luxe est fait de silence et d’espace. Villas sur pilotis, lagons transparents et fonds marins d’exception invitent à la déconnexion totale. Ce séjour privilégie le calme, avec juste ce qu’il faut d’activités pour ceux qui le souhaitent.",
+        "en": "In the Maldives, luxury is made of silence and space. Overwater villas, transparent lagoons and exceptional seabeds invite complete disconnection. This stay favours calm, with just enough activities for those who want them.",
+        "ar": "في المالديف، الترف مصنوع من الهدوء والاتساع. فيلات فوق الماء وبحيرات شفافة وأعماق بحرية استثنائية تدعو إلى انفصال تام. تُفضّل هذه الإقامة الهدوء، مع ما يكفي من الأنشطة لمن يرغب."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée & transfert vers l’île",
+            "en": "Arrival & island transfer",
+            "ar": "الوصول والنقل إلى الجزيرة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée & transfert vers l’île. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival & island transfer. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول والنقل إلى الجزيرة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Lagon & vie marine",
+            "en": "Lagoon & marine life",
+            "ar": "البحيرة والحياة البحرية"
+          },
+          "d": {
+            "fr": "Idée pour la journée : lagon & vie marine. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: lagoon & marine life. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: البحيرة والحياة البحرية. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Détente sur la plage",
+            "en": "Relaxing on the beach",
+            "ar": "الاسترخاء على الشاطئ"
+          },
+          "d": {
+            "fr": "Idée pour la journée : détente sur la plage. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: relaxing on the beach. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الاسترخاء على الشاطئ. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Découverte du récif",
+            "en": "Exploring the reef",
+            "ar": "اكتشاف الشعاب المرجانية"
+          },
+          "d": {
+            "fr": "Idée pour la journée : découverte du récif. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: exploring the reef. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: اكتشاف الشعاب المرجانية. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Journée à votre rythme",
+            "en": "A day at your own pace",
+            "ar": "يوم حسب رغبتكم"
+          },
+          "d": {
+            "fr": "Idée pour la journée : journée à votre rythme. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: a day at your own pace. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: يوم حسب رغبتكم. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Derniers instants & retour",
+            "en": "Final moments & departure",
+            "ar": "لحظات أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps libre et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final free time and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت حر أخير وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    },
+    "mecque": {
+      "long": {
+        "fr": "La Omra est un voyage du cœur. Entre la ferveur du Masjid al-Haram, la sérénité de la Mosquée du Prophète à Médine et les lieux chargés d’histoire de l’Islam, ce séjour est pensé pour que vous puissiez vous consacrer pleinement à l’adoration. Hôtels proches des mosquées, transferts et accompagnement sont organisés avec vous.",
+        "en": "Umrah is a journey of the heart. Between the devotion of Masjid al-Haram, the serenity of the Prophet’s Mosque in Madinah and the historic sites of Islam, this stay is designed so you can devote yourself fully to worship. Hotels close to the mosques, transfers and guidance are arranged with you.",
+        "ar": "العمرة رحلة القلب. بين خشوع المسجد الحرام وسكينة المسجد النبوي في المدينة المنورة والمعالم التاريخية للإسلام، صُممت هذه الرحلة لتتفرغوا للعبادة بكل طمأنينة. ننظم معكم الفنادق القريبة من الحرمين والتنقلات والمرافقة."
+      },
+      "days": [
+        {
+          "t": {
+            "fr": "Arrivée à Djeddah & La Mecque",
+            "en": "Arrival in Jeddah & Makkah",
+            "ar": "الوصول إلى جدة ثم مكة المكرمة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : arrivée à Djeddah & La Mecque. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: arrival in Jeddah & Makkah. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الوصول إلى جدة ثم مكة المكرمة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Accomplissement de la Omra",
+            "en": "Performing Umrah",
+            "ar": "أداء مناسك العمرة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : accomplissement de la Omra. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: performing Umrah. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: أداء مناسك العمرة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Prières au Masjid al-Haram",
+            "en": "Prayers at Masjid al-Haram",
+            "ar": "الصلاة في المسجد الحرام"
+          },
+          "d": {
+            "fr": "Idée pour la journée : prières au Masjid al-Haram. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: prayers at Masjid al-Haram. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الصلاة في المسجد الحرام. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Ziyarat de La Mecque",
+            "en": "Makkah ziyarat",
+            "ar": "زيارة المعالم في مكة المكرمة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : ziyarat de La Mecque. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: makkah ziyarat. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: زيارة المعالم في مكة المكرمة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Route vers Médine",
+            "en": "Journey to Madinah",
+            "ar": "الانتقال إلى المدينة المنورة"
+          },
+          "d": {
+            "fr": "Idée pour la journée : route vers Médine. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: journey to Madinah. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: الانتقال إلى المدينة المنورة. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Mosquée du Prophète & ziyarat",
+            "en": "Prophet’s Mosque & ziyarat",
+            "ar": "المسجد النبوي والزيارات"
+          },
+          "d": {
+            "fr": "Idée pour la journée : mosquée du Prophète & ziyarat. Visites, rythme et déplacements à adapter ensemble ; prestations à préciser dans le devis.",
+            "en": "A day idea: prophet’s Mosque & ziyarat. Visits, pace and transport are to personalise together; services will be specified in your quote.",
+            "ar": "اقتراح اليوم: المسجد النبوي والزيارات. يتم تخصيص الزيارات والإيقاع والنقل معكم وتحديد الخدمات في عرض السعر."
+          }
+        },
+        {
+          "t": {
+            "fr": "Dernière prière & retour",
+            "en": "Final prayer & departure",
+            "ar": "صلاة أخيرة والعودة"
+          },
+          "d": {
+            "fr": "Dernier temps de recueillement et transfert à prévoir selon vos horaires. Le trajet de retour sera confirmé dans le devis.",
+            "en": "Final time for reflection and transfer to arrange around your departure. Your return journey will be confirmed in the quote.",
+            "ar": "وقت أخير للتعبد وتنظيم النقل وفق مواعيدكم. سيتم تأكيد رحلة العودة في عرض السعر."
+          }
+        }
+      ]
+    }
+  },
+  "destinations": [
+    {
+      "slug": "istanbul",
+      "img": "istanbul",
+      "region": "moyen-orient",
+      "name": {
+        "fr": "Istanbul",
+        "en": "Istanbul",
+        "ar": "إسطنبول"
+      },
+      "country": {
+        "fr": "Turquie",
+        "en": "Turkey",
+        "ar": "تركيا"
+      }
+    },
+    {
+      "slug": "dubai",
+      "img": "dubai",
+      "region": "moyen-orient",
+      "name": {
+        "fr": "Dubaï",
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      "country": {
+        "fr": "Émirats",
+        "en": "UAE",
+        "ar": "الإمارات"
+      }
+    },
+    {
+      "slug": "marrakech",
+      "img": "marrakech",
+      "region": "afrique",
+      "name": {
+        "fr": "Marrakech",
+        "en": "Marrakech",
+        "ar": "مراكش"
+      },
+      "country": {
+        "fr": "Maroc",
+        "en": "Morocco",
+        "ar": "المغرب"
+      }
+    },
+    {
+      "slug": "bali",
+      "img": "bali",
+      "region": "asie",
+      "name": {
+        "fr": "Bali",
+        "en": "Bali",
+        "ar": "بالي"
+      },
+      "country": {
+        "fr": "Indonésie",
+        "en": "Indonesia",
+        "ar": "إندونيسيا"
+      }
+    },
+    {
+      "slug": "paris",
+      "img": "paris",
+      "region": "europe",
+      "name": {
+        "fr": "Paris",
+        "en": "Paris",
+        "ar": "باريس"
+      },
+      "country": {
+        "fr": "France",
+        "en": "France",
+        "ar": "فرنسا"
+      }
+    },
+    {
+      "slug": "thailande",
+      "img": "thailand",
+      "region": "asie",
+      "name": {
+        "fr": "Thaïlande",
+        "en": "Thailand",
+        "ar": "تايلاند"
+      },
+      "country": {
+        "fr": "Thaïlande",
+        "en": "Thailand",
+        "ar": "تايلاند"
+      }
+    }
+  ],
+  "destinationDetails": {
+    "istanbul": {
+      "intro": {
+        "fr": "Posée sur deux continents, Istanbul est une ville de contrastes où l’Orient et l’Occident se répondent depuis des siècles.",
+        "en": "Straddling two continents, Istanbul is a city of contrasts where East and West have echoed each other for centuries.",
+        "ar": "ممتدة على قارتين، إسطنبول مدينة تناقضات يتحاور فيها الشرق والغرب منذ قرون."
+      },
+      "why": {
+        "fr": "Pour ses monuments spectaculaires, son atmosphère vivante et sa gastronomie généreuse, Istanbul se prête aussi bien à un court séjour qu’à une découverte approfondie.",
+        "en": "For its spectacular monuments, lively atmosphere and generous cuisine, Istanbul suits both a short break and an in-depth discovery.",
+        "ar": "بمعالمها المذهلة وأجوائها النابضة ومطبخها السخي، تناسب إسطنبول العطلة القصيرة والاكتشاف المعمّق على حد سواء."
+      },
+      "when": {
+        "fr": "Le printemps (avril-mai) et l’automne (septembre-octobre) offrent une météo douce et une lumière idéale.",
+        "en": "Spring (April–May) and autumn (September–October) offer mild weather and ideal light.",
+        "ar": "يوفّر الربيع (أبريل-مايو) والخريف (سبتمبر-أكتوبر) طقساً معتدلاً وإضاءة مثالية."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Sainte-Sophie",
+            "en": "Hagia Sophia",
+            "ar": "آيا صوفيا"
+          },
+          "img": "istanbul"
+        },
+        {
+          "t": {
+            "fr": "Le Grand Bazar",
+            "en": "The Grand Bazaar",
+            "ar": "البازار الكبير"
+          },
+          "img": "market"
+        },
+        {
+          "t": {
+            "fr": "Le Bosphore",
+            "en": "The Bosphorus",
+            "ar": "البوسفور"
+          },
+          "img": "istanbul2"
+        }
+      ]
+    },
+    "dubai": {
+      "intro": {
+        "fr": "Ville du futur posée sur le désert, Dubaï réinvente sans cesse l’art de surprendre.",
+        "en": "A city of the future set on the desert, Dubai constantly reinvents the art of surprise.",
+        "ar": "مدينة المستقبل على حافة الصحراء، تعيد دبي دائماً ابتكار فنّ الإدهاش."
+      },
+      "why": {
+        "fr": "Pour ses gratte-ciel vertigineux, ses plages, son désert et son sens de l’hospitalité, Dubaï est une destination spectaculaire toute l’année.",
+        "en": "For its dizzying skyscrapers, beaches, desert and sense of hospitality, Dubai is a spectacular destination all year round.",
+        "ar": "بناطحاتها الشاهقة وشواطئها وصحرائها وكرم ضيافتها، دبي وجهة مذهلة طوال العام."
+      },
+      "when": {
+        "fr": "De novembre à mars, les températures sont les plus agréables.",
+        "en": "From November to March, temperatures are at their most pleasant.",
+        "ar": "من نوفمبر إلى مارس تكون الحرارة في أفضل حالاتها."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Burj Khalifa",
+            "en": "Burj Khalifa",
+            "ar": "برج خليفة"
+          },
+          "img": "dubai"
+        },
+        {
+          "t": {
+            "fr": "Le désert",
+            "en": "The desert",
+            "ar": "الصحراء"
+          },
+          "img": "desert"
+        },
+        {
+          "t": {
+            "fr": "Marina & plages",
+            "en": "Marina & beaches",
+            "ar": "المارينا والشواطئ"
+          },
+          "img": "dubai2"
+        }
+      ]
+    },
+    "marrakech": {
+      "intro": {
+        "fr": "La ville ocre conjugue médina animée, palais raffinés et douceur des jardins.",
+        "en": "The ochre city blends a lively medina, refined palaces and the gentleness of its gardens.",
+        "ar": "المدينة الحمراء تجمع بين مدينة عتيقة نابضة وقصور راقية ورقّة الحدائق."
+      },
+      "why": {
+        "fr": "Pour son patrimoine, son artisanat et son art de vivre, Marrakech offre un dépaysement immédiat, à quelques heures seulement.",
+        "en": "For its heritage, craftsmanship and art of living, Marrakech offers an instant change of scene, only a few hours away.",
+        "ar": "بتراثها وحرفها وأسلوب عيشها، تمنح مراكش تغييراً فورياً للأجواء على بُعد ساعات قليلة."
+      },
+      "when": {
+        "fr": "Le printemps et l’automne sont idéaux ; les soirées d’été restent agréables.",
+        "en": "Spring and autumn are ideal; summer evenings remain pleasant.",
+        "ar": "الربيع والخريف مثاليان، وتبقى أمسيات الصيف لطيفة."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Place Jemaa el-Fna",
+            "en": "Jemaa el-Fna square",
+            "ar": "ساحة جامع الفنا"
+          },
+          "img": "marrakech"
+        },
+        {
+          "t": {
+            "fr": "Les souks",
+            "en": "The souks",
+            "ar": "الأسواق"
+          },
+          "img": "market"
+        },
+        {
+          "t": {
+            "fr": "Jardins & palais",
+            "en": "Gardens & palaces",
+            "ar": "حدائق وقصور"
+          },
+          "img": "marrakech2"
+        }
+      ]
+    },
+    "bali": {
+      "intro": {
+        "fr": "Île spirituelle et verdoyante, Bali invite à ralentir entre rizières et rivages.",
+        "en": "A green, spiritual island, Bali invites you to slow down between rice fields and shores.",
+        "ar": "جزيرة خضراء روحانية، تدعوك بالي للتمهّل بين حقول الأرز والشواطئ."
+      },
+      "why": {
+        "fr": "Pour sa nature, sa culture vivante et ses hébergements de charme, Bali séduit aussi bien les amoureux de détente que de découvertes.",
+        "en": "For its nature, living culture and charming accommodation, Bali appeals to lovers of both relaxation and discovery.",
+        "ar": "بطبيعتها وثقافتها الحية وإقاماتها الساحرة، تجذب بالي محبّي الاسترخاء والاكتشاف معاً."
+      },
+      "when": {
+        "fr": "La saison sèche, d’avril à octobre, est la plus favorable.",
+        "en": "The dry season, from April to October, is the most favourable.",
+        "ar": "الموسم الجاف من أبريل إلى أكتوبر هو الأنسب."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Rizières d’Ubud",
+            "en": "Ubud rice fields",
+            "ar": "حقول أرز أوبود"
+          },
+          "img": "bali"
+        },
+        {
+          "t": {
+            "fr": "Temples côtiers",
+            "en": "Coastal temples",
+            "ar": "معابد ساحلية"
+          },
+          "img": "bali2"
+        },
+        {
+          "t": {
+            "fr": "Plages du sud",
+            "en": "Southern beaches",
+            "ar": "شواطئ الجنوب"
+          },
+          "img": "bali2"
+        }
+      ]
+    },
+    "paris": {
+      "intro": {
+        "fr": "Capitale intemporelle de l’élégance, Paris se découvre au fil de ses quartiers et de ses musées.",
+        "en": "A timeless capital of elegance, Paris is discovered through its neighbourhoods and museums.",
+        "ar": "عاصمة الأناقة الخالدة، تُكتشف باريس عبر أحيائها ومتاحفها."
+      },
+      "why": {
+        "fr": "Pour son patrimoine, sa gastronomie et son atmosphère unique, Paris reste une destination incontournable en toute saison.",
+        "en": "For its heritage, gastronomy and unique atmosphere, Paris remains an essential destination in any season.",
+        "ar": "بتراثها وفنّ طهيها وأجوائها الفريدة، تبقى باريس وجهة أساسية في كل موسم."
+      },
+      "when": {
+        "fr": "Le printemps et le début de l’automne offrent la plus belle lumière.",
+        "en": "Spring and early autumn offer the most beautiful light.",
+        "ar": "يمنح الربيع وبداية الخريف أجمل إضاءة."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Tour Eiffel",
+            "en": "Eiffel Tower",
+            "ar": "برج إيفل"
+          },
+          "img": "paris"
+        },
+        {
+          "t": {
+            "fr": "Musées & jardins",
+            "en": "Museums & gardens",
+            "ar": "متاحف وحدائق"
+          },
+          "img": "paris2"
+        },
+        {
+          "t": {
+            "fr": "Quartiers historiques",
+            "en": "Historic districts",
+            "ar": "أحياء تاريخية"
+          },
+          "img": "paris2"
+        }
+      ]
+    },
+    "thailande": {
+      "intro": {
+        "fr": "Entre temples dorés, jungles et îles paradisiaques, la Thaïlande promet un voyage de contrastes.",
+        "en": "Between golden temples, jungles and paradise islands, Thailand promises a journey of contrasts.",
+        "ar": "بين المعابد الذهبية والأدغال والجزر الساحرة، تعِد تايلاند برحلة تناقضات."
+      },
+      "why": {
+        "fr": "Pour sa culture chaleureuse, sa cuisine réputée et ses paysages variés, la Thaïlande convient à tous les rythmes de voyage.",
+        "en": "For its warm culture, renowned cuisine and varied landscapes, Thailand suits every travel pace.",
+        "ar": "بثقافتها الدافئة ومطبخها الشهير ومناظرها المتنوعة، تناسب تايلاند كل إيقاعات السفر."
+      },
+      "when": {
+        "fr": "De novembre à mars, le climat est le plus agréable.",
+        "en": "From November to March, the climate is at its most pleasant.",
+        "ar": "من نوفمبر إلى مارس يكون المناخ في أفضل حالاته."
+      },
+      "see": [
+        {
+          "t": {
+            "fr": "Temples de Bangkok",
+            "en": "Bangkok temples",
+            "ar": "معابد بانكوك"
+          },
+          "img": "thailand"
+        },
+        {
+          "t": {
+            "fr": "Îles du Sud",
+            "en": "Southern islands",
+            "ar": "جزر الجنوب"
+          },
+          "img": "thailand2"
+        },
+        {
+          "t": {
+            "fr": "Cuisine locale",
+            "en": "Local cuisine",
+            "ar": "المطبخ المحلي"
+          },
+          "img": "food"
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "num": "01",
+      "img": "service-group",
+      "icon": "route",
+      "title": {
+        "fr": "Voyages organisés",
+        "en": "Organised trips",
+        "ar": "رحلات منظّمة"
+      },
+      "desc": {
+        "fr": "Des itinéraires conçus pour découvrir une destination sans vous soucier de l’organisation.",
+        "en": "Itineraries designed to discover a destination without worrying about logistics.",
+        "ar": "برامج متكاملة تتيح لك اكتشاف الوجهة براحة، من دون الانشغال بالتنظيم."
+      },
+      "benefits": {
+        "fr": [
+          "Programme détaillé jour par jour",
+          "Hébergement sélectionné",
+          "Accompagnement avant le départ"
+        ],
+        "en": [
+          "Detailed day-by-day programme",
+          "Selected accommodation",
+          "Support before departure"
+        ],
+        "ar": [
+          "برنامج يومي واضح",
+          "إقامة مختارة بعناية",
+          "مواكبة قبل موعد السفر"
+        ]
+      }
+    },
+    {
+      "num": "02",
+      "img": "plane",
+      "icon": "ticket",
+      "title": {
+        "fr": "Billetterie aérienne",
+        "en": "Flight booking",
+        "ar": "حجز تذاكر الطيران"
+      },
+      "desc": {
+        "fr": "Nous vous accompagnons dans la recherche de solutions de vol adaptées à votre destination et à votre voyage.",
+        "en": "We help you find flight solutions suited to your destination and journey.",
+        "ar": "نقارن خيارات الطيران لنجد لك الرحلة الأنسب من حيث الموعد والمسار والميزانية."
+      },
+      "benefits": {
+        "fr": [
+          "Recherche multi-compagnies",
+          "Conseils sur les itinéraires",
+          "Assistance sur les horaires"
+        ],
+        "en": [
+          "Multi-airline search",
+          "Route guidance",
+          "Schedule assistance"
+        ],
+        "ar": [
+          "مقارنة بين شركات متعددة",
+          "اقتراح أفضل مسار",
+          "مساعدة في اختيار المواعيد"
+        ]
+      }
+    },
+    {
+      "num": "03",
+      "img": "hotel",
+      "icon": "hotel",
+      "title": {
+        "fr": "Hôtels & séjours",
+        "en": "Hotels & stays",
+        "ar": "الفنادق والإقامات"
+      },
+      "desc": {
+        "fr": "Des solutions d’hébergement sélectionnées selon votre destination, votre budget et votre manière de voyager.",
+        "en": "Accommodation options selected for your destination, budget and travel style.",
+        "ar": "نرشّح لك إقامات تناسب وجهتك وميزانيتك ومستوى الراحة الذي تبحث عنه."
+      },
+      "benefits": {
+        "fr": [
+          "Sélection selon votre budget",
+          "Emplacements étudiés",
+          "Différentes gammes"
+        ],
+        "en": [
+          "Selection to fit your budget",
+          "Well-chosen locations",
+          "Different ranges"
+        ],
+        "ar": [
+          "خيارات ضمن ميزانيتك",
+          "مواقع مناسبة للبرنامج",
+          "فئات متنوعة من الإقامة"
+        ]
+      }
+    },
+    {
+      "num": "04",
+      "img": "service-planning",
+      "icon": "sparkles",
+      "title": {
+        "fr": "Voyages sur mesure",
+        "en": "Tailor-made trips",
+        "ar": "رحلات مصمّمة حسب الطلب"
+      },
+      "desc": {
+        "fr": "Une destination en tête ? Construisons ensemble une expérience pensée autour de vos envies.",
+        "en": "A destination in mind? Let’s build an experience shaped around your wishes.",
+        "ar": "نحوّل فكرتك إلى رحلة مصمّمة حول رغباتك ووقتك وميزانيتك."
+      },
+      "benefits": {
+        "fr": [
+          "Itinéraire personnalisé",
+          "Rythme selon vos envies",
+          "Proposition détaillée"
+        ],
+        "en": [
+          "Personalised itinerary",
+          "Pace to suit you",
+          "Detailed proposal"
+        ],
+        "ar": [
+          "برنامج مصمّم لك",
+          "إيقاع يناسبك",
+          "عرض واضح ومفصّل"
+        ]
+      }
+    },
+    {
+      "num": "05",
+      "img": "service-activities",
+      "icon": "mapPinned",
+      "title": {
+        "fr": "Transferts & activités",
+        "en": "Transfers & activities",
+        "ar": "التنقّلات والأنشطة"
+      },
+      "desc": {
+        "fr": "Complétez votre séjour avec les transferts et expériences nécessaires à votre voyage.",
+        "en": "Complete your stay with the transfers and experiences your trip needs.",
+        "ar": "أضف إلى رحلتك تنقّلات مريحة وأنشطة مختارة وتجارب محلية مميزة."
+      },
+      "benefits": {
+        "fr": [
+          "Transferts aéroport",
+          "Excursions & visites",
+          "Expériences locales"
+        ],
+        "en": [
+          "Airport transfers",
+          "Excursions & visits",
+          "Local experiences"
+        ],
+        "ar": [
+          "التنقّل من وإلى المطار",
+          "جولات وزيارات منظّمة",
+          "تجارب محلية مختارة"
+        ]
+      }
+    },
+    {
+      "num": "06",
+      "img": "service-support",
+      "icon": "headphones",
+      "title": {
+        "fr": "Accompagnement voyage",
+        "en": "Travel support",
+        "ar": "المواكبة أثناء السفر"
+      },
+      "desc": {
+        "fr": "Une équipe disponible pour vous guider avant votre départ et vous aider à préparer votre séjour.",
+        "en": "A team on hand to guide you before departure and help you prepare your stay.",
+        "ar": "يبقى فريقنا إلى جانبك للإجابة عن أسئلتك ومساعدتك على الاستعداد بثقة."
+      },
+      "benefits": {
+        "fr": [
+          "Interlocuteur dédié",
+          "Conseils de préparation",
+          "Disponibilité avant départ"
+        ],
+        "en": [
+          "Dedicated contact",
+          "Preparation advice",
+          "Availability before departure"
+        ],
+        "ar": [
+          "مستشار يتابع طلبك",
+          "نصائح عملية قبل السفر",
+          "تواصل مستمر حتى موعد الانطلاق"
+        ]
+      }
+    }
+  ],
+  "values": [
+    {
+      "icon": "heartHandshake",
+      "title": {
+        "fr": "Écoute",
+        "en": "Listening",
+        "ar": "نُصغي إليك"
+      },
+      "desc": {
+        "fr": "Nous commençons par comprendre votre projet.",
+        "en": "We start by understanding your project.",
+        "ar": "نبدأ بفهم ما تتطلّع إليه من رحلتك."
+      }
+    },
+    {
+      "icon": "idea",
+      "title": {
+        "fr": "Conseil",
+        "en": "Advice",
+        "ar": "نرشدك"
+      },
+      "desc": {
+        "fr": "Nous vous aidons à faire les bons choix pour votre séjour.",
+        "en": "We help you make the right choices for your stay.",
+        "ar": "نساعدك على اختيار الأنسب لوجهتك وميزانيتك."
+      }
+    },
+    {
+      "icon": "compass",
+      "title": {
+        "fr": "Simplicité",
+        "en": "Simplicity",
+        "ar": "نُبسّط عليك"
+      },
+      "desc": {
+        "fr": "Nous centralisons les étapes essentielles de votre voyage.",
+        "en": "We bring together the essential steps of your trip.",
+        "ar": "نجمع تفاصيل رحلتك الأساسية في مكان واحد."
+      }
+    },
+    {
+      "icon": "headphones",
+      "title": {
+        "fr": "Accompagnement",
+        "en": "Support",
+        "ar": "نواكبك"
+      },
+      "desc": {
+        "fr": "Vous avancez avec un interlocuteur qui connaît votre projet.",
+        "en": "You move forward with someone who knows your project.",
+        "ar": "يبقى معك مستشار يعرف تفاصيل رحلتك."
+      }
+    }
+  ],
+  "steps": [
+    {
+      "num": "01",
+      "title": {
+        "fr": "Vous nous parlez de votre projet",
+        "en": "You tell us about your project",
+        "ar": "شاركنا فكرة رحلتك"
+      },
+      "desc": {
+        "fr": "Destination, dates, envies : nous partons de vous.",
+        "en": "Destination, dates, wishes: we start from you.",
+        "ar": "أخبرنا بالوجهة والموعد وما تتطلّع إليه."
+      }
+    },
+    {
+      "num": "02",
+      "title": {
+        "fr": "Nous recherchons les options adaptées",
+        "en": "We look for the right options",
+        "ar": "نبحث عن أفضل الخيارات"
+      },
+      "desc": {
+        "fr": "Vols, hébergements, itinéraires : nous comparons pour vous.",
+        "en": "Flights, stays, itineraries: we compare for you.",
+        "ar": "نقارن الرحلات الجوية والإقامات والبرامج المناسبة."
+      }
+    },
+    {
+      "num": "03",
+      "title": {
+        "fr": "Vous choisissez votre expérience",
+        "en": "You choose your experience",
+        "ar": "نضبط العرض معك"
+      },
+      "desc": {
+        "fr": "Nous affinons ensemble jusqu’à la bonne proposition.",
+        "en": "We refine together until the right proposal.",
+        "ar": "نراجع التفاصيل معك حتى نصل إلى العرض الأنسب."
+      }
+    },
+    {
+      "num": "04",
+      "title": {
+        "fr": "Vous préparez votre départ",
+        "en": "You prepare for departure",
+        "ar": "استعدّ للسفر براحة بال"
+      },
+      "desc": {
+        "fr": "Nous restons à vos côtés jusqu’au jour du voyage.",
+        "en": "We stay by your side until the day you travel.",
+        "ar": "نواكبك ونجيب عن أسئلتك حتى يوم الانطلاق."
+      }
+    }
+  ]
+}
